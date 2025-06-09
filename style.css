@@ -12,7 +12,7 @@ body {display: flex;
     padding: 10px;
     color: rgb(0, 0, 0);
     text-align: center;
-    background-color: rgb(243, 191, 191);
+    background-color: rgb(216, 216, 216);
 }
 
 
@@ -21,4 +21,26 @@ body {display: flex;
     color:white;
     text-align: center;
     background-color: rgb(58, 58, 58);
+}
+.Causes {
+    background-color: rgb(58, 58, 58);
+    color: white;
+    font-size: 20px;
+
+}
+.Effects {
+    background-color: rgb(58, 58, 58);
+    color: white;
+    font-size: 20px;
+}
+
+.Solutions {
+    background-color: rgb(58, 58, 58);
+    color: white;
+    font-size: 20px;
+}
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
 }
